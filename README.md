@@ -10,4 +10,4 @@ https://github.com/Juamma/Mi-bit-cora* Trabajo sobre que es un barco.
 ** Importancia.
   Muy importante para el comercio maritimo, trasportes y turismo, para mover en grandes cantidades.
 ** Conclusión.
-  Los barcos han sido lo principal en el desarrollo mundial y en la comunicación, y sige siendo hoy día.  
+  Los barcos han sido lo principal en el desarrollo mundial y en la comunicación, y sige siendo hoy día.
