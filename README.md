@@ -26,10 +26,7 @@ Los barcos han sido fundamentales en el desarrollo de la humanidad y siguen sien
 "mejoro trabajo barco"
 ## Ejemplos de barcos
 "añado imagenes"
-![barco 1](barco1.jpg)
-![barco 2](barco2.jpg)
-![barco 3](barco3.jpg)
-![barco 4](barco4.jpg)
+
 
 
 
