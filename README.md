@@ -1,5 +1,5 @@
 # Trabajo sobre los barcos
-##  ¿Qué es un barco?
+## ¿Qué es un barco?
 Un barco es una embarcación que sirve para navegar por el agua, ya sea en ríos, lagos, mares u océanos.
 ## ⚓ Tipos de barcos
 Existen muchos tipos de barcos según su función:
@@ -9,7 +9,7 @@ Existen muchos tipos de barcos según su función:
 - Pesqueros (para la pesca)
 - Barcos militares
 - Barcos de recreo 
-## ?￯ﾸﾏ Partes de un barco
+## Partes de un barco
 Un barco tiene diferentes partes importantes:
 - Proa: parte delantera
 - Popa: parte trasera
@@ -17,10 +17,10 @@ Un barco tiene diferentes partes importantes:
 - Cubierta: superficie superior
 - Puente: zona de control
 - Quilla: base del barco
-## ? Historia de los barcos
+##  Historia de los barcos
 Los barcos existen desde hace miles de años. Al principio eran de madera y muy simples. Con el tiempo evolucionaron y hoy en día se construyen con acero y materiales modernos, siendo mucho más grandes y seguros.
-## ? Importancia
+##  Importancia
 Los barcos son muy importantes para el comercio marítimo, el transporte de personas y el turismo. Permiten mover grandes cantidades de mercancía por todo el mundo.
-## ? Conclusión
+##  Conclusión
 Los barcos han sido fundamentales en el desarrollo de la humanidad y siguen siendo esenciales hoy en día para la economía y la comunicación entre países. 
 "mejoro trabajo barco"
