@@ -24,3 +24,4 @@ Los barcos son muy importantes para el comercio marítimo, el transporte de pers
 ##  Conclusión
 Los barcos han sido fundamentales en el desarrollo de la humanidad y siguen siendo esenciales hoy en día para la economía y la comunicación entre países. 
 "mejoro trabajo barco"
+##
